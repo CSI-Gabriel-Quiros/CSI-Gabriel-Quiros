@@ -12,10 +12,22 @@
 #### tienen muy buenas graficas en cual necesitas tener una consola que sea buena
  
 ## Dificultad 
-#### La dificultad depende mucho en los jugadores que estas jugando porque el juego es en linea en cual significa que no jugas contra la computadora
+#### La dificultad depende mucho en los jugadores que estas jugando porque el juego es en linea en cual significa que no jugas contra la computadora. Pero usualmente es dificil ganar el objetivo que es ganar.
 
+## Mundo
+#### El mundo es 3d y los personajes son primera persona. Se juega adentro de la isla en cual tiene unas paredes invisible que si te pasas te mueres.
 
+## Controles 
+#### En warzone tu puedes controlar a tu jugador para que se mueva, cambie de pistola, use vehiculos, tirar bombas, tirarse al piso, y disparar la pistola. El videojuego se controla con mouse, keyboard o "joystick"
 
+## Objetivos y reglas
+#### El objetivo de el juego es ser el ultimo jugador vivo y matar a todos los jugadores. Las unicas regla en el juego es que no te puedes salir de la isla y no puedes matar a tu equipo. 
 
 ## Mecanica
-### 
+#### La mecanica de Warzone tiene que ver con correr, guiar vehiculos, tirarte al piso, y agacharte. Pero lo mas importante en este juego es disparar a los otros jugadores.
+
+## Objetos 
+#### En este juego hay sientos de miles de objetos que no hay un exacto. Unos ejemplos de objetos son edificios, rocas, trenes, montañas, arboles, carros, etc.
+
+## Personajes
+#### En warzone hay tres jugadores principales que son los que coges gratis. 

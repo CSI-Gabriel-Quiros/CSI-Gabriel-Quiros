@@ -30,4 +30,4 @@
 #### En este juego hay sientos de miles de objetos que no hay un exacto. Unos ejemplos de objetos son edificios, rocas, trenes, montañas, arboles, carros, etc.
 
 ## Personajes
-#### En warzone hay tres jugadores principales que son los que coges gratis. 
+#### En warzone hay tres jugadores principales que son los que empiezas el juego con. Hay mas jugadores pero tu tienes que comprarlos, battle pass, o terminar objetivos.

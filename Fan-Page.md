@@ -23,7 +23,12 @@
 
 <br>
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-    Samuel Umtiti is a professional soccer player who was born in Yaoundé, Cameroon but at his 2 years old he moved to Villeurbanne, France.
+    Samuel Umtiti is a professional soccer player who was born in Yaoundé, Cameroon but at his 2 years old he moved to Villeurbanne, France. Samuel Umtiti began his career in 2012 with Lyon. In that team he won Coupe de France and Trophée des Champions in his first year. He then transfered to Fc Barcelona, known as the best team in the world, in 2016 for a transfer of 25 million euros.
+    <div align="center">
+    <img    src="https://cdn.vox-cdn.com/thumbor/YAUuHxbg1eBnYZE2uF5Z_idzq7I=/0x0:4974x3315/1200x800/filters:focal(2090x1261:2884x2055)/cdn.vox-cdn.com/uploads/chorus_image/image/60375533/999542052.jpg.0.jpg"
+            title="Pestily"
+            width="20%"
+            height="20%" 
 </p>
 
 
@@ -33,6 +38,10 @@
 <table>
     <tr>
         <th>Name</th>
+        <td>Samuel</td>
+    </tr>
+    <tr>
+        <th>last name</th>
         <td>Umtiti</td>
     </tr>
     <tr>
@@ -56,12 +65,12 @@
         <td>@samumtiti</td>
     </tr>
     <tr>
-        <th>Youtube</th>
-        <td>@pestily</td>
+        <th>shirt number</th>
+        <td>23</td>
     </tr>
      <tr>
-        <th>Twitter</th>
-        <td>@samumtiti</td>
+        <th>net woth</th>
+        <td>5 million$</td>
     </tr>
     <tr>
         <th>Team</th>

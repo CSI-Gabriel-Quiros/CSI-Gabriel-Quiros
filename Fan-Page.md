@@ -1,9 +1,78 @@
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Samuel Umtiti </b></h1>
 
 <div align="center">
-     <img    src="https://yt3.ggpht.com/ytc/AKedOLRr6_Q8yPyhMO_t8BaPUFh7S-Thuwhe6j8_Gfha5w=s900-c-k-c0x00ffffff-no-rj"
+    <img    src="https://www.fcbarcelona.com/photo-resources/2021/08/17/84ca6745-a237-4e8e-a987-f8a66941bdd5/mini_1200x750-umtiti.png?width=1200&height=750"
             title="Pestily"
             width="20%"
-            height="20%"
+            height="20%" 
             />
 </div>
+
+<h2 align="center" > Athlete, soccer player and a celeberty!</h2>
+
+<br>
+
+<div align="center">
+    <img    src="https://a.espncdn.com/photo/2021/1019/r925059_1296x729_16-9.jpg"
+            title="Pestily"
+            width="50%"
+            height="50%" 
+            />
+</div>
+
+
+<br>
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+    Samuel Umtiti is a professional soccer player who was born in Yaoundé, Cameroon but at his 2 years old he moved to Villeurbanne, France.
+</p>
+
+
+<br>
+
+
+<table>
+    <tr>
+        <th>Name</th>
+        <td>Umtiti</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>28</td>
+    </tr>
+    <tr>
+        <th>Birthday</th>
+        <td>14th November</td>
+    </tr>
+        <tr>
+        <th>Nationality</th>
+        <td>France
+    </tr>
+    <tr>
+        <th>Instagram</th>
+        <td>@samumtiti</td>
+    </tr>
+    <tr>
+        <th>Twitter</th>
+        <td>@samumtiti</td>
+    </tr>
+    <tr>
+        <th>Youtube</th>
+        <td>@pestily</td>
+    </tr>
+     <tr>
+        <th>Twitter</th>
+        <td>@samumtiti</td>
+    </tr>
+    <tr>
+        <th>Team</th>
+       <td><a href="https://www.fcbarcelona.com/en/"> @FcBarcelona </a></td>
+    </tr>
+            </table>
+
+
+<br><br>
+
+<p>
+    <i>Made by: <u>Gabriel Emmanuel Quiros on December 7, 2021
+</p>
+  

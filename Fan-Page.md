@@ -1,4 +1,4 @@
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Samuel Umtiti </b></h1>
+<h1 style="font-family:Comic Sans MS; font-size:300%;" align="center" > <b> Samuel Umtiti </b></h1>
 
 <div align="center">
     <img    src="https://www.fcbarcelona.com/photo-resources/2021/08/17/84ca6745-a237-4e8e-a987-f8a66941bdd5/mini_1200x750-umtiti.png?width=1200&height=750"
